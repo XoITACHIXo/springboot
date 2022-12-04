@@ -1,0 +1,4 @@
+com\Itachi\Springboot\tut\SpringBootTutApplicationTests.class
+com\Itachi\Springboot\tut\controller\DepartmentControllerTest.class
+com\Itachi\Springboot\tut\repository\DepartmentRespositoryTest.class
+com\Itachi\Springboot\tut\service\DepartmentServiceTest.class
